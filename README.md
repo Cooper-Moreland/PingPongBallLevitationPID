@@ -13,7 +13,7 @@
 ## Materials Used
 
 - Acrylic
-- Panel Mount Pushbutton
+- Panel Mount LED
 - HC-SR04 Ultrasonic Sensor
 - Panel Mount Switch
 - Metro M4 Express AirLift
