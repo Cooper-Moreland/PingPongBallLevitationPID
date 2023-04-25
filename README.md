@@ -26,3 +26,5 @@
 ## Obstacles/Errors
 
 ## Tips
+
+[Helpful video](https://www.youtube.com/watch?v=k0yTh2D-ypQ&list=PLWiHR1caPdEORSQOIG1W4TmaKShuoKJA5&index=3&t=65s)
