@@ -12,6 +12,13 @@
 
 ## Materials Used
 
+- Acrylic
+- Panel Mount Pushbutton
+- HC-SR04 Ultrasonic Sensor
+- Panel Mount Switch
+- Metro M4 Express AirLift
+- 6xAA Battery Pack w/ Batteries
+
 ## Wiring Diagram
 
 ## Code
